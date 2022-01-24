@@ -4,5 +4,7 @@ public class TestCase002 {
 
         System.out.println("Commit one");
         System.out.println("Commit two");
+        System.out.println("Commit Two");
+
     }
 }
