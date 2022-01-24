@@ -6,6 +6,7 @@ public class TestCase003 {
         System.out.println("Commit one");
         System.out.println("Commit two");
         System.out.println("final result");
+        System.out.println("Here are the changes from Local IntelliJ");
 
 
     }
